@@ -1,5 +1,9 @@
 # Hotel Management System 🏨
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+**Features:** Room Booking · Food Ordering · Billing System · Data Persistence · Customer Management
 A comprehensive Java-based console application for managing hotel operations including room reservations, food ordering, billing, and customer management.
 
 ## 📋 Table of Contents
